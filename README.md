@@ -7,7 +7,3 @@
 		<img src="https://raw.githubusercontent.com/kunish/kunish/output/github-contribution-grid-snake.svg" />
 	</picture> 
 </div>
-
-<div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=kunish&theme=dark" />
-</div>
