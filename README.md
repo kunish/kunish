@@ -14,11 +14,15 @@
 
 ---
 
+<table>
+<tr>
+<td width="55%" valign="top">
+
 ### Focus
 
-- Building practical developer tools, desktop apps, and web dashboards.
-- Designing systems that are small, observable, and easy to maintain.
-- Exploring infrastructure, networking, API gateways, and local-first products.
+- Building developer tools and desktop apps that stay small and start fast.
+- Running API gateways, proxies, and edge networking with observability built in.
+- Working on local-first patterns — SQLite, sync engines, offline-capable UX.
 
 ### Toolbox
 
@@ -31,6 +35,27 @@
 	<img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 	<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
 </p>
+
+</td>
+<td width="45%" valign="top">
+
+<a href="https://github.com/kunish">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=kunish&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&card_width=400" />
+		<img alt="Kunish's GitHub stats" src="https://github-stats-extended.vercel.app/api?username=kunish&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&card_width=400" />
+	</picture>
+</a>
+
+<a href="https://github.com/kunish">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=kunish&layout=compact&hide_border=true&theme=tokyonight&card_width=400&langs_count=8" />
+		<img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kunish&layout=compact&hide_border=true&card_width=400&langs_count=8" />
+	</picture>
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
